@@ -1,0 +1,33 @@
+button{
+    color: black;
+    background-color: aquamarine;
+    height: 40px;
+    width: 70px;
+    border-radius: 8px 4px;
+    border: 4px outset;
+}
+form input{
+    border :6px white inset;
+    border-radius: 8px 4px;
+    height: 4vh;
+    width:25vw;
+}
+form{
+    margin: 0;
+    /* padding:  35vh 0px 0 0; */
+}
+#bg{
+    background-color: blueviolet;
+    height: 750px;
+}
+*{
+    margin: 0;
+}
+.container{
+    height: 400px;
+    width: 120px;
+    
+}
+form{
+    position: fixed;
+}
